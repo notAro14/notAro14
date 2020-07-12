@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning **Frontend dev**
+- 📫 How to reach me:
+  - [my twitter account](https://twitter.com/notarodev)
+  - [my blog](https://malagasydev.com/)
