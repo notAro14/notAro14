@@ -9,3 +9,4 @@ Some of my other side projects:
 - [Github explorer](https://github-explorer-rho.now.sh/)
 - [Apex legends Tracker](https://apex-tracker-v2.herokuapp.com/)
 - [Chuck Norris Facts Generator](https://chuck-norris-joke.now.sh/)
+- [Covid19 tracker for Madagasikara(my home)](https://covid19-mada.now.sh/)
