@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-🔭 I’m currently working on my blog [Malagasy Dev](https://malagasydev.com/)
+🔭 Feel free to check my blog [Malagasy Dev](https://malagasydev.com/)
 
-Some of my other side projects I am proud of:
+You can find below some of my side projects I am proud of:
 
 - [Github explorer](https://github-explorer-rho.now.sh/)
 - [Conway's Game of Life](https://game-of-life-bay.vercel.app/)
 - [Apex legends Tracker](https://apex-tracker-v2.herokuapp.com/)
 
-FreeCodeCamp Project - Front End Librairies Certification:
-
-- [Random quote app](https://random-quote-five.vercel.app/)
-- [Markdown previewer](https://markdown-previewer-two.vercel.app/)
+If you'd like to work with me, you can find my Resume [here](https://github.com/notAro14/my-resume/blob/master/resume.pdf)
