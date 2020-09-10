@@ -4,6 +4,7 @@
 
 You can find below some of my side projects I am proud of:
 
+- [Sorting algorithm visualizer](https://sorting-visualizer-peach.vercel.app/)
 - [Github explorer](https://github-explorer-rho.now.sh/)
 - [Conway's Game of Life](https://game-of-life-bay.vercel.app/)
 - [Apex legends Tracker](https://apex-tracker-v2.herokuapp.com/)
