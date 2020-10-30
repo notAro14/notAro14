@@ -13,9 +13,9 @@ If you'd like to work with me, you can find my Resume [here](https://github.com/
 
 ### My Tech Stack
 
-- 💻 &nbsp; Javascript | C++ | Python
+- 💻 &nbsp; Javascript
 - 🌐 &nbsp; React | Node
-- 🛢 &nbsp; MySQL | MongoDB
+- 🛢 &nbsp; PostgreSQL | MongoDB
 - 🔧 &nbsp; Git | Markdown
 - 🖥 &nbsp; Figma
 
