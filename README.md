@@ -9,8 +9,6 @@ You can find below some of my side projects I am proud of:
 - [Conway's Game of Life](https://game-of-life-bay.vercel.app/)
 - [Apex legends Tracker](https://apex-tracker-v2.herokuapp.com/)
 
-If you'd like to work with me, you can find my Resume [here](https://github.com/notAro14/my-resume/blob/master/resume.pdf)
-
 ### My Tech Stack
 
 - 💻 &nbsp; Javascript
