@@ -2,7 +2,7 @@
 
 🔭 Feel free to check my blog [Malagasy Dev](https://malagasydev.com/)
 
-You can find below some of my side projects I am proud of:
+Some little pet projects:
 
 - [Sorting algorithm visualizer](https://sorting-visualizer-peach.vercel.app/)
 - [Github explorer](https://github-explorer-rho.now.sh/)
